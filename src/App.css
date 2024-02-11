@@ -1,0 +1,17 @@
+/* App.css */
+.digital-clock {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.time {
+  font-size: 4rem;
+}
+
+.date {
+  font-size: 2rem;
+}
